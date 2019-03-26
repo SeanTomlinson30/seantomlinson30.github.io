@@ -6,7 +6,7 @@ My thoughts on the "What're you going to do after your PhD" question.
 
 # What're you going to do after your PhD?
 
-I recently read a great column in Nature's Career Column called [what I wish my friends and family knew about my PhD](https://www.nature.com/articles/d41586-019-00948-7?fbclid=IwAR3eJ_LjO6QU-Xvns_RxrakknDhTMrXSYobimAJihjZ3z0c7GDYeHt4uQGE) by [@kate_samardzic](https://twitter.com/kate_samardzic). The column beautifully puts into words what a vast majority of PhD students (if not all) experience, encompassing feelings of imposter syndrome, the pressure to publish, the frustration of repeated failures and how we struggle to learn academic resilience. I highly recommend giving it a read!
+I recently read a great column in Nature's Career Column called "[What I wish my friends and family knew about my PhD](https://www.nature.com/articles/d41586-019-00948-7?fbclid=IwAR3eJ_LjO6QU-Xvns_RxrakknDhTMrXSYobimAJihjZ3z0c7GDYeHt4uQGE)" by [@kate_samardzic](https://twitter.com/kate_samardzic). The column beautifully puts into words what a vast majority of PhD students (if not all) experience, encompassing feelings of imposter syndrome, the pressure to publish, the frustration of repeated failures and how we struggle to learn academic resilience. I highly recommend giving it a read!
 
 Nestled within the column is the advice to friends and family of PhD students:
 
