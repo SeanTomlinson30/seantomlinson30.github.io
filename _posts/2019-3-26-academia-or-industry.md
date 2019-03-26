@@ -4,7 +4,7 @@ title: Academia or Industry
 ---
 My thoughts on the "What're you going to do after your PhD" question. 
 
-![foo](/images/oliver-roos-571292-unsplash.jpg "title")
+![Photo by Oliver Roos on Unsplash](/images/oliver-roos-571292-unsplash.jpg "Photo by Oliver Roos on Unsplash")
 Photo by Oliver Roos on Unsplash
 
 # What're you going to do after your PhD?
