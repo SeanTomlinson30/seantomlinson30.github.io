@@ -4,12 +4,6 @@ title: Academia or Industry
 ---
 My thoughts on the "What're you going to do after your PhD" question. 
 
-<p align="center">
-<img width="325" alt="Photo by Oliver Roos on Unsplash" src="/images/oliver-roos-571292-unsplash.jpg">
-<br>
-Photo by Oliver Roos on Unsplash
-</p>
-
 # What're you going to do after your PhD?
 
 I recently read a great column in Nature's Career Column called [what I wish my friends and family knew about my PhD](https://www.nature.com/articles/d41586-019-00948-7?fbclid=IwAR3eJ_LjO6QU-Xvns_RxrakknDhTMrXSYobimAJihjZ3z0c7GDYeHt4uQGE) by [@kate_samardzic](https://twitter.com/kate_samardzic). The column beautifully puts into words what a vast majority of PhD students (if not all) experience, encompassing feelings of imposter syndrome, the pressure to publish, the frustration of repeated failures and how we struggle to learn academic resilience. I highly recommend giving it a read!
@@ -19,6 +13,12 @@ Nestled within the column is the advice to friends and family of PhD students:
 > Please don’t ask us when we’ll finish and what life after graduate school holds — we might not know yet, and that can be scary. We will tell you when we know. There are a lot of unknowns; instead, tell us you will be there no matter how it turns out.
 
 This particular question of "what're you going to do after your PhD", is indeed a scary one and having the support of family to alleviate the self-constructed pressure to always have the answer definitely helps; but, I 100% do not know the answer to that question.
+
+<p align="center">
+<img width="325" alt="Photo by Oliver Roos on Unsplash" src="/images/oliver-roos-571292-unsplash.jpg">
+<br>
+Photo by Oliver Roos on Unsplash
+</p>
 
 I recently took steps to attempt to resolve this question. I always imagined that I would stay in academia, and as it currently stands I'm ~80% leaning towards academia as my career path of choice. However, I can't help but think that I have no first-hand experience of working in industry as a scientist. As a PhD student, you'll have completed an undergraduate of typically 3 years, and perhaps a masters degree of 1 year; top that off with a 3 or 4 year PhD and you've had time to hear the positive and negative of academia - and perhaps hear the horror stories of the limited autonomy and profit-oriented grind of industry research.
 
