@@ -12,9 +12,9 @@ Nestled within the column is the advice to friends and family of PhD students:
 
 > Please don’t ask us when we’ll finish and what life after graduate school holds — we might not know yet, and that can be scary. We will tell you when we know. There are a lot of unknowns; instead, tell us you will be there no matter how it turns out.
 
-This particular question of "what're you going to do after your PhD", is indeed a scary one and having the support of family to alleviate the self-constructed pressure to always have the answer definitely helps. However, I recently took steps to attempt to resolve this question for myself. 
+This particular question of "what're you going to do after your PhD", is indeed a scary one and having the support of family to alleviate the self-constructed pressure to always have the answer definitely helps; but, I 100% do not know the answer to that question.
 
-I always imagined that I would stay in academia, and as it currently stands I'm ~80% leaning towards academia as my career path of choice. However, I can't help but think that I have no first-hand experience of working in industry as a scientist. As a PhD student, you'll have completed an undergraduate of typically 3 years, and perhaps a masters degree of 1 year; top that off with a 3 or 4 year PhD and you've had time to hear the positive and negative of academia - and perhaps hear the horror stories of the limited autonomy and profit-oriented grind of industry research.
+I recently took steps to attempt to resolve this question. I always imagined that I would stay in academia, and as it currently stands I'm ~80% leaning towards academia as my career path of choice. However, I can't help but think that I have no first-hand experience of working in industry as a scientist. As a PhD student, you'll have completed an undergraduate of typically 3 years, and perhaps a masters degree of 1 year; top that off with a 3 or 4 year PhD and you've had time to hear the positive and negative of academia - and perhaps hear the horror stories of the limited autonomy and profit-oriented grind of industry research.
 
 Typically, PhD students have a breadth of post-doctoral researchers and senior members of staff to talk to about career options. However, it feels as though there's a selection bias in those available for advice, as those people have been some amount of successful in the academic route, so are more likely to provide a positive account of having chosen academia overthe industry. More and more, PhD funders and programme leads are encouraging their students to seeks external opportunities for career development. I feel lucky that in my case, both my funding body and programme management are extremely supportive of these type of endeavours. 
 
@@ -30,9 +30,11 @@ I left the final part of the selection process happy with my performance and rat
 
 One online interview, a full assessment day (which was like the science version of the Krypton Factor) and a week of anxious waiting later, I got an amazing email saying that I was accepted into their 3-month internship programme.
 
-July 2019 will mark the start of an official 3-month pause in my PhD, which will allow me to take part in the Illumina internship programme.
+July 2019 will mark the start of an official 3-month pause in my PhD, which will allow me to take part in the Illumina internship programme. I'm extremely excited to experience working within industry and will no doubt have a follow-up post sometime in the future about what my experience was like. 
 
-I'm extremely excited to experience working within industry and will no doubt have a follow-up post sometime in the future about what my experience was like. 
+Though I haven't started the intership yes, the experiece so far has already been massively informative and something I reccomend other PhD consider doing, if they're like many of us - unsure about their answer to _the_ question. 
 
 I would like to thank my supervisory team and MRC DTP management team for their support in my pursuing an internship mid-PhD. 
+
+
 
