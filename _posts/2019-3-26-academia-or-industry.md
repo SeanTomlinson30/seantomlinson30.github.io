@@ -13,6 +13,6 @@ I recently read a great column in Nature's Career Column called [what I wish my 
 
 Nestled within the column is the advice to friends and family of PhD students:
 
-```
-Please don’t ask us when we’ll finish and what life after graduate school holds — we might not know yet, and that can be scary. We will tell you when we know. There are a lot of unknowns; instead, tell us you will be there no matter how it turns out.
-```
+
+> Please don’t ask us when we’ll finish and what life after graduate school holds — we might not know yet, and that can be scary. We will tell you when we know. There are a lot of unknowns; instead, tell us you will be there no matter how it turns out.
+
