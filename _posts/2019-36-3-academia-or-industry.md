@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The post-PhD Problem
+title: Academia or Industry
 ---
 My thoughts on the "What're you going to do after your PhD" question. 
 
-# Acamdemia or Industry
+# Academia or Industry
 
 TBC
