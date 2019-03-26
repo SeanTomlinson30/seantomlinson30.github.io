@@ -4,8 +4,10 @@ title: Academia or Industry
 ---
 My thoughts on the "What're you going to do after your PhD" question. 
 
+<p align="center">
 <img width="325" alt="Photo by Oliver Roos on Unsplash" src="/images/oliver-roos-571292-unsplash.jpg">
 Photo by Oliver Roos on Unsplash
+</p>
 
 # What're you going to do after your PhD?
 
