@@ -4,11 +4,8 @@ title: Academia or Industry
 ---
 My thoughts on the "What're you going to do after your PhD" question. 
 
-![](/images/oliver-roos-571292-unsplash.jpg=250x250 "Photo by Oliver Roos on Unsplash")
+<img width="400" alt="Photo by Oliver Roos on Unsplash" src="/images/oliver-roos-571292-unsplash.jpg">
 Photo by Oliver Roos on Unsplash
-
-
-<img width="200" alt="portfolio_view" src="/images/oliver-roos-571292-unsplash.jpg">
 
 # What're you going to do after your PhD?
 
