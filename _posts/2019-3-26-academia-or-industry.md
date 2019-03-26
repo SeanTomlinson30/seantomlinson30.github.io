@@ -6,6 +6,7 @@ My thoughts on the "What're you going to do after your PhD" question.
 
 <p align="center">
 <img width="325" alt="Photo by Oliver Roos on Unsplash" src="/images/oliver-roos-571292-unsplash.jpg">
+<br>
 Photo by Oliver Roos on Unsplash
 </p>
 
