@@ -15,9 +15,9 @@ Nestled within the column is the advice to friends and family of PhD students:
 This particular question of "what're you going to do after your PhD", is indeed a scary one and having the support of family to alleviate the self-constructed pressure to always have the answer definitely helps; but, I 100% do not know the answer to that question.
 
 <p align="center">
-<img width="325" alt="Photo by Oliver Roos on Unsplash" src="/images/oliver-roos-571292-unsplash.jpg">
+<img width="325" alt="Photo by Oliver Roos on Unsplash" src="/images/vladislav-babienko-703701-unsplash.jpg">
 <br>
-Photo by Oliver Roos on Unsplash
+Photo by Vladislav Babienko on Unsplash
 </p>
 
 I recently took steps to attempt to resolve this question. I always imagined that I would stay in academia, and as it currently stands I'm ~80% leaning towards academia as my career path of choice. However, I can't help but think that I have no first-hand experience of working in industry as a scientist. As a PhD student, you'll have completed an undergraduate of typically 3 years, and perhaps a masters degree of 1 year; top that off with a 3 or 4 year PhD and you've had time to hear the positive and negative of academia - and perhaps hear the horror stories of the limited autonomy and profit-oriented grind of industry research.
