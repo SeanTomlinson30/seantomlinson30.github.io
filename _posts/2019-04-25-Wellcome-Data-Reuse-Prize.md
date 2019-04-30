@@ -7,7 +7,7 @@ We came second!
 
 This is a very exciting post to write. I’m currently on a train to London, to attend the ‘Eliminating Malaria: evidence, impact and policy’ meeting at the the London School of Hygiene and Tropical Medicine.
 
-Myself, Josh Longbottom and Andy South recently submitted an entry to the Wellcome Data Re-Use Prize.
+Myself, [Josh Longbottom](https://joshlongbottom.github.io/) and [Andy South](https://www.lstmed.ac.uk/about/people/andy-south) recently submitted an entry to the [Wellcome Data Re-Use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research).
 
 The task was to use the data provided by the Malaria Atlas Project (MAP), and do something novel and interesting with it, under these catagories:
 
@@ -15,19 +15,17 @@ The task was to use the data provided by the Malaria Atlas Project (MAP), and do
 - Novel approaches to ‘down-scaling’ of areal incidence data provided by MAP for three endemic countries for which case -totals (corrected for treatment-seeking and reporting biases) are available at a range of spatial scales.
 - Visualising the measures of uncertainty associated with MAP’s typical modelled outputs.
 
-MAP data is rich and extremely useful to researchers working on malaria in Africa. It consists of …
-
-One downside to the such comprehensive data repositories, is the requirement to know a programming language to explore and manipulate the data. Given that the global effort against malaria encompasses many fields, disciples and skill sets, it means that this valuable resource may not be accessible to all the people who need it, short of taking part in an R programming course. 
+MAP collated geographic data relating to malaria from many sources. This data is rich and extremely useful to researchers working on malaria in Africa. Such comprehensive data repositories typically require a programming language to explore and manipulate the data. Given that the global effort against malaria encompasses many fields, disciples and skill sets, it means that this valuable resource may not be accessible to all the people who want to easily access the data.
 
 Our idea was to develop an interactive and dynamic shiny application that allow users to graphically interact with MAP data, comparing districts within African countries and providing summary statistics for malariometric indices in areas of interest.
 
-We’re all very proud of the application, which can be found here by the way. 
+I'm very proud of the application, which can be found [here](https://seantomlinson30.shinyapps.io/shiny-map-prize/) by the way. 
 
 We found out on World Malaria Day that our submission placed 2nd in the competition. Carrying a prize of £5000, an invite to a meeting in London on the 30th (hence the train), and an invitation to publish a descriptive piece in the Wellcome Open Research journal. 
 
 For those of you who are interested, below I’ve pasted the original submission text, which gives a more formal overview of the context, methods and development of the application. 
 
-This is the first academic competition I’ve entered, and whilst it was difficult to balance PhD work and this extra curricular, I’m very glad that we did it and I’ve learned a lot from it. I’d be more than happy to take part in similar competitions in the future. At present I’m working on my subbmision to the Max Perutz Science Writing Award. The requirement is 800 words decribing your research and why it interests you and why it’s important to general audience. It’s a difficult task, to write clearly for a general audience, and I’ve already learned lots about where my weaknesses for this type of writing. Being able to clearly communicate your research to the general public is a vital skill that all scientists should have, and I’m using this exercise to working on my public engagment writing. 
+This is the first academic competition I’ve entered, and whilst it was difficult to balance PhD work and this extra curricular, I’m very glad that we did it and I’ve learned a lot from it. I’d be more than happy to take part in similar competitions in the future. At the moment I’m working on my submission to the [Max Perutz Science Writing Award](https://mrc.ukri.org/skills-careers/studentships/for-current-mrc-students/max-perutz-science-writing-award/). The requirement is 800 words decribing your research and why it interests you and why it’s important to general audience. It’s a difficult task, to write clearly for a general audience, and I’ve already learned lots about where my weaknesses for this type of writing. Being able to clearly communicate your research to the general public is a vital skill that all scientists need to have, and I’m using this exercise to working on my public engagment writing. 
 
 That’s all for now. See you in the next post. 
 
@@ -75,8 +73,12 @@ All participating members of this team are new collaborators, with no shared pub
 
 ## References
 Giorgi, E., Diggle, P.J., Snow, R.W., Noor, A.M. (2018). Geostatistical methods for disease mapping and visualization using data from spatio-temporally referenced prevalence surveys. arxiv.org/abs/1802.06359
+
 Knight, G., Dharan, N., Fox, G., Stennis, N., Zwerling, A., Khurana, R. and Dowdy, D. (2019). Bridging the gap between evidence and policy for infectious diseases: How models can aid public health decision-making. 
+
 Gonahasa, S., Maiteki-Sebuguzi, C., Rugnao, S., Dorsey, G., Opigo, J., Yeka, A., Katureebe, A., Kyohere, M., Lynd, A., Hemingway, J., Donnelly, M., Kamya, M. and Staedke, S. (2018). LLIN Evaluation in Uganda Project (LLINEUP): factors associated with ownership and use of long-lasting insecticidal nets in Uganda: a cross-sectional survey of 48 districts. *Malaria Journal*, 17(1).
+
 Pfeffer, D.A., Lucas, T.C., May, D., Harris, J., Rozier, J., Twohig, K.A., Dalrymple, U., Guerra, C.A., Moyes, C.L., Thorn, M., Nguyen, M., et al. (2018). malariaAtlas: an R interface to global malariometric data hosted by the Malaria Atlas Project. *Malaria Journal*, 17(1), p.352.
+
 Robert J. Hijmans (2019). raster: Geographic Data Analysis and Modeling. R package version 2.8-19. https://CRAN.R-project.org/package=raster
 
