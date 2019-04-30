@@ -5,7 +5,9 @@ title: Our entry to the Wellcome Data Reuse Prize
 
 We came second!
 
-
+<p align="center">
+  <img src="/images/MAP_screenshot.png" alt="prusa-a8"/>
+</p>
 
 This is a very exciting post to write. I’m currently on a train to London, to attend the ‘Eliminating Malaria: evidence, impact and policy’ meeting at the the London School of Hygiene and Tropical Medicine.
 
