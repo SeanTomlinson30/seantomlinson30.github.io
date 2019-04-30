@@ -35,7 +35,7 @@ That’s all for now. See you in the next post.
 Original submission.
 
 [**MAP-district-comparison**](https://seantomlinson30.shinyapps.io/shiny-map-prize/)**: An interactive shiny application for summary statistics and visualisation of MAP data.**
-Joshua Longbottom^a^, Andy South^a^ and Sean Tomlinson^a^
+Joshua Longbottom<sup>a</sup>, Andy South<sup>a</sup> and Sean Tomlinson<sup>a</sup>
 
 <sup>a</sup> Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, UK
 
