@@ -5,6 +5,8 @@ title: Our entry to the Wellcome Data Reuse Prize
 
 We came second!
 
+
+
 This is a very exciting post to write. I’m currently on a train to London, to attend the ‘Eliminating Malaria: evidence, impact and policy’ meeting at the the London School of Hygiene and Tropical Medicine.
 
 Myself, [Josh Longbottom](https://joshlongbottom.github.io/) and [Andy South](https://www.lstmed.ac.uk/about/people/andy-south) recently submitted an entry to the [Wellcome Data Re-Use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research).
@@ -30,7 +32,7 @@ This is the first academic competition I’ve entered, and whilst it was difficu
 That’s all for now. See you in the next post. 
 
 
-Original submission.
+# Original submission.
 
 [**MAP-district-comparison**](https://seantomlinson30.shinyapps.io/shiny-map-prize/)**: An interactive shiny application for summary statistics and visualisation of MAP data.**
 Joshua Longbottom<sup>a</sup>, Andy South<sup>a</sup> and Sean Tomlinson<sup>a</sup>
