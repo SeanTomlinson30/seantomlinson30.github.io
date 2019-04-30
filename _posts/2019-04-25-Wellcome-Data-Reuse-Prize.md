@@ -6,22 +6,22 @@ title: Our entry to the Wellcome Data Reuse Prize
 We came second!
 
 <p align="center">
-  <img src="/images/MAP_screenshot.png" alt="prusa-a8"/>
+  <img src="/images/MAP_screenshot.png" alt="app-screenshot"/>
 </p>
 
-This is a very exciting post to write. I’m currently on a train to London, to attend the ‘Eliminating Malaria: evidence, impact and policy’ meeting at the the London School of Hygiene and Tropical Medicine.
+This is a very exciting post to write. I’m currently on a train to London, to attend the ‘Eliminating Malaria: evidence, impact and policy’ meeting at the London School of Hygiene and Tropical Medicine.
 
 Myself, [Josh Longbottom](https://joshlongbottom.github.io/) and [Andy South](https://www.lstmed.ac.uk/about/people/andy-south) recently submitted an entry to the [Wellcome Data Re-Use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research).
 
-The task was to use the data provided by the Malaria Atlas Project (MAP), and do something novel and interesting with it, under these catagories:
+The task was to use the data provided by the Malaria Atlas Project (MAP), and do something novel and interesting with it, under these categories:
 
 - Exploring novel explanations for unattributed residual malaria transmission present in MAP’s statistical models.
 - Novel approaches to ‘down-scaling’ of areal incidence data provided by MAP for three endemic countries for which case -totals (corrected for treatment-seeking and reporting biases) are available at a range of spatial scales.
 - Visualising the measures of uncertainty associated with MAP’s typical modelled outputs.
 
-MAP collated geographic data relating to malaria from many sources. This data is rich and extremely useful to researchers working on malaria in Africa. Such comprehensive data repositories typically require a programming language to explore and manipulate the data. Given that the global effort against malaria encompasses many fields, disciples and skill sets, it means that this valuable resource may not be accessible to all the people who want to easily access the data.
+MAP collates geographic data relating to malaria from many sources. This data is rich and extremely useful to researchers working on malaria in Africa. Such comprehensive data repositories typically require a programming language to explore. Given that the global effort against malaria encompasses many fields, disciples and skill sets, it means that this valuable resource may not be accessible to all the people who may want to easily access the data.
 
-Our idea was to develop an interactive and dynamic shiny application that allow users to graphically interact with MAP data, comparing districts within African countries and providing summary statistics for malariometric indices in areas of interest.
+Our idea was to develop an interactive and dynamic shiny application that allows users to graphically interact with MAP data, comparing districts within African countries and providing summary statistics for malariometric indices in areas of interest.
 
 I'm very proud of the application, which can be found [here](https://seantomlinson30.shinyapps.io/shiny-map-prize/) by the way. 
 
@@ -29,7 +29,7 @@ We found out on World Malaria Day that our submission placed 2nd in the competit
 
 For those of you who are interested, below I’ve pasted the original submission text, which gives a more formal overview of the context, methods and development of the application. 
 
-This is the first academic competition I’ve entered, and whilst it was difficult to balance PhD work and this extra curricular, I’m very glad that we did it and I’ve learned a lot from it. I’d be more than happy to take part in similar competitions in the future. At the moment I’m working on my submission to the [Max Perutz Science Writing Award](https://mrc.ukri.org/skills-careers/studentships/for-current-mrc-students/max-perutz-science-writing-award/). The requirement is 800 words decribing your research and why it interests you and why it’s important to general audience. It’s a difficult task, to write clearly for a general audience, and I’ve already learned lots about where my weaknesses for this type of writing. Being able to clearly communicate your research to the general public is a vital skill that all scientists need to have, and I’m using this exercise to working on my public engagment writing. 
+This is the first academic competition I’ve entered, and whilst it was difficult to balance PhD work and this extracurricular, I’m very glad that we did it and I’ve learned a lot from it. I’d be more than happy to take part in similar competitions in the future. At the moment I’m working on my submission to the [Max Perutz Science Writing Award](https://mrc.ukri.org/skills-careers/studentships/for-current-mrc-students/max-perutz-science-writing-award/). The requirement is 800 words describing your research, why it interests you and why it’s important to a general audience. It’s a difficult task, to write clearly for a general audience, and I’ve already learned lots about where my weaknesses are for this type of writing. Being able to clearly communicate your research to the general public is a vital skill that all scientists need to have, and I’m using this exercise work on my public engagement writing. 
 
 That’s all for now. See you in the next post. 
 
