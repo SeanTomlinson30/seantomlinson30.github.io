@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+**Open source 3D printable replacement parts for the WHO insecticide susceptibility bioassay system.** 
+
+[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/762849v1)
+
+in press
+
+---
+
 **Implications of insecticide resistance for malaria vector control with long-lasting insecticidal nets: trends in pyrethroid resistance during a WHO-coordinated multi-country prospective study.**
 
 Parasites & Vectors 2018/10
