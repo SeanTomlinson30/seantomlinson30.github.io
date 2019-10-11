@@ -22,6 +22,14 @@ Parasites & Vectors 2018/10
 
 ---
 
+**Malaria Data by District: An open-source web application for increasing access to malaria information [version 1; peer review: 1 approved with reservations]**
+
+Wellcome Open Research 2019/10
+
+[Source](https://wellcomeopenresearch.org/articles/4-151)
+
+---
+
 **Genome-wide transcriptional analyses in _Anopheles_ mosquitoes reveal an unexpected association between salivary gland gene expression and insecticide resistance.**
 
 BMC Genomics 2018/03
