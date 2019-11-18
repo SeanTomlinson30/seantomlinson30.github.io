@@ -6,9 +6,13 @@ permalink: /publications/
 
 **Open source 3D printable replacement parts for the WHO insecticide susceptibility bioassay system.** 
 
-[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/762849v1)
+Parasites and Vectors 2019/11
 
-in press
+[PMID: 31727146](https://www.ncbi.nlm.nih.gov/pubmed/31727146)
+
+[DOI: 10.1186/s13071-019-3789-9](https://doi.org/10.1186/s13071-019-3789-9)
+
+[Deprecated bioRxiv preprint](https://www.biorxiv.org/content/10.1101/762849v1)
 
 ---
 
