@@ -24,7 +24,7 @@ Parasites and Vectors 2019/11
 
 ---
 
-**Malaria Data by District: An open-source web application for increasing access to malaria information [version 1; peer review: 1 approved with reservations]**
+**Malaria Data by District: An open-source web application for increasing access to malaria information [version 2; peer review: 2 approved]**
 
 Wellcome Open Research 2019/10
 
