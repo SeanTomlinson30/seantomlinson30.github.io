@@ -4,7 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-**Open source 3D printable replacement parts for the WHO insecticide susceptibility bioassay system.** 
+**Resistance to dieldrin evolution in African malaria vectors is driven by interspecic and interkaryotypic introgression** 
+
+bioRxiv 2019/12
+
+[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2019.12.17.879775v1)
+
+---
+
+**Open source 3D printable replacement parts for the WHO insecticide susceptibility bioassay system.**
 
 Parasites and Vectors 2019/11
 
@@ -41,4 +49,3 @@ BMC Genomics 2018/03
 [PMID: 29587635](https://www.ncbi.nlm.nih.gov/pubmed/29587635)
 
 [DOI: 10.1186/s12864-018-4605-1](https://doi.org/10.1186/s12864-018-4605-1)
-
