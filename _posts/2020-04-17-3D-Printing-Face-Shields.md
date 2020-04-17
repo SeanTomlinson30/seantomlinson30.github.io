@@ -55,7 +55,7 @@ Clip courtesy of [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zO
 These methods help knock out the time component. Another concern is how clean we can produce these parts. When I’m working with the parts that are going out glove and face shields are worn. Here’s Beth Poulton who was lending a hand packaging up face shields that were going out to Health Workers. The advice to Health Workers would be that they sanitise the face shields before use, just incase there's any asymptomatic infeciton.
 
 <p align="center">
-  <img src="/images/IMG_3017.jpg" alt="beth-packing"/>
+  <img src="/images/IMG_3017.jpg" alt="beth-packing "width="50%" height="50%"/>
 </p>
 
 The response and requests for face shields from care workers through my social media platforms since starting this has been overwhelming. I’m hearing horrendous stories of what staff are expected to do with wrong, inadequate, old, broken and non-existent PPE. My goal at the moment in addition to writing my thesis and finishing my PhD on time, is to alleviate the concerns of our brave health workers by providing them with functioning PPE. 
