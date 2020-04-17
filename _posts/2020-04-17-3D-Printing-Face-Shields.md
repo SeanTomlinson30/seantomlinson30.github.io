@@ -21,6 +21,9 @@ The main challenge with printing the faceshields is the time. They take about 1-
 
 X has modified the print head of their printer and customised the print instruction to essentially ram a bar into the finished print, ejecting it off the bed and starting the print autonomously! So clever! 
 
+<p align="center">
+  <img src="/images/parteject.gif" alt="ejection-method"/>
+</p>
 
 Clip courtesy of Just-3d-print-it on Instagram
 
