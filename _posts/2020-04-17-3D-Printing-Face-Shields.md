@@ -12,7 +12,7 @@ For no one is that more true than our front line medical staff who are continuin
 The 3D printing and maker community is a fabulous one that - much to the chagrin of IP and copyright holders - stand in fierce defiance on essential items that are not open source. Our first view of this was a team of [Italian doctors and engineers](https://www.forbes.com/sites/amyfeldman/2020/03/19/talking-with-the-italian-engineers-who-3d-printed-respirator-parts-for-hospitals-with-coronavirus-patients-for-free/#3bfd404378f1) who replicated a ventilator valve in CAD and started producing their own. Indeed, the maker community has rallied to make themselves available to fill the gaps in the equipment and consumables space of health staff around the world, where the traditional funders, manufacturers and suppliers are falling short. Even where health workers are receiving PPE, it’s wholly inadequate for the task they have before them. An old school friend of mine is a carer and has been given only 1 mask and 1 face shield to last an unknown amount of time. The face shield they have been given is a thick card stock and is reminiscent of the "old cardboard crowns from Burger King".
 
 <p align="center">
-  <img src="/images/papershield1.jpg" alt="paper-shield" "width="30%" height="30%" />
+  <img src="/images/papershield1.jpg" alt="paper-shield "width="30%" height="30%" />
 </p>
 
 In my time with the Liverpool School of Tropical Medicine, I’ve brought my skills with CAD and 3D printing to address problems with experimental apparatus, whether that be unique holders for anti-venom research, [insecticide resistance bioassay kits](https://www.ncbi.nlm.nih.gov/pubmed/31727146) or [general plastic tools](https://seantomlinson.com/3D-Printing-in-the-Donnelly-lab/) around the lab that either aren’t available anymore or and extortionately expensive due to the many monopolies that hold science and grants for ransom. Right now, however, I’m printing face shields.
@@ -55,7 +55,7 @@ Clip courtesy of [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zO
 These methods help knock out the time component. Another concern is how clean we can produce these parts. When I’m working with the parts that are going out glove and face shields are worn. Here’s Beth Poulton who was lending a hand packaging up face shields that were going out to Health Workers. The advice to Health Workers would be that they sanitise the face shields before use, just incase there's any asymptomatic infeciton.
 
 <p align="center">
-  <img src="/images/IMG_3017.jpg" alt="beth-packing" "width="30%" height="30%"/>
+  <img src="/images/IMG_3017.jpg" alt="beth-packing "width="30%" height="30%"/>
 </p>
 
 The response and requests for face shields from care workers through my social media platforms since starting this has been overwhelming. I’m hearing horrendous stories of what staff are expected to do with wrong, inadequate, old, broken and non-existent PPE. My goal at the moment in addition to writing my thesis and finishing my PhD on time, is to alleviate the concerns of our brave health workers by providing them with functioning PPE. 
