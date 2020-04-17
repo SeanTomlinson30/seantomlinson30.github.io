@@ -23,7 +23,7 @@ A makerspace in Liverpool called DoES (Do Epic Stuff) is coordinating requests f
 
 The main challenge with printing the faceshields is the time. They take about 1-hour each for something of reasonable quality. This on the surface isn’t a major problem… “you can make 24 per day!”. Unfortunately, standard printers require you to manually remove the parts after each print and start a new one. Meaning the overnight period is void of productivity. The 3D printing community have engineered some beautiful work around for this. 
 
-## Auto ejecting the part
+## Auto Ejecting the Part
 
 Some users have modified the print head of their printer and customised the print instruction to essentially ram a bar into the finished print, ejecting it off the bed and starting the print autonomously! So clever! 
 
@@ -44,7 +44,7 @@ Clip courtesy of [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTq
 
 ## The Stack
 
-I was floored when I saw this method. It’s so painfully simple and effective. If you stack multiple models on top of each other and leave a small air gap between them, you can print more models per build plate and separate them with a decorator’s knife after the print. This is the method I’m using. I’m printing 10 at a time per printer and I can get two prints per day. With 3 printers that means 60 prints.
+I was floored when I saw this method. It’s so painfully simple and effective. If you stack multiple models on top of each other and leave a small air gap between them, you can print more models per build plate and separate them with a decorator’s knife after the print. This is the method I’m using. I’m printing 10 at a time per printer and I can get two prints per day, with 3 printers that means 60 prints.
 
 <p align="center">
   <img src="/images/Stacking 3D Prints _ Scratching Faces 10m40.7s - 10m53s (MHKBvk8IAc0) 2401.gif" alt="stack-method"/>
@@ -54,6 +54,6 @@ Clip courtesy of [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zO
 
 These methods help knock out the time component. Another concern is how clean we can produce these parts. When I’m working with the parts that are going out glove and face shields are worn. Here’s Beth Poulton who was lending a hand packaging up face shields that were going out to Health Workers. The advice to Health Workers would be that they sanitise the face shields before use, just incase. 
 
-The response and requests for face shields from care workers through my social media platforms since starting this has been overwhelming. I’m hearing horrendous stories of what staff are expected to do with wrong, inadequate, old, broken or non-existent PPE. My goal at the moment in addition to writing my thesis and finishing my PhD on time is to alleviate the concerns of our brave health works by providing them with functioning PPE. 
+The response and requests for face shields from care workers through my social media platforms since starting this has been overwhelming. I’m hearing horrendous stories of what staff are expected to do with wrong, inadequate, old, broken and non-existent PPE. My goal at the moment in addition to writing my thesis and finishing my PhD on time, is to alleviate the concerns of our brave health works by providing them with functioning PPE. 
 
 If your organisation needs help with PPE, please see the [DoES site](ppe.doesliverpool.com)
