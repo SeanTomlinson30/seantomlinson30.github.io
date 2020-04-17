@@ -52,7 +52,7 @@ I was floored when I saw this method. It’s so painfully simple and effective. 
 
 Clip courtesy of [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw)
 
-These methods help knock out the time component. Another concern is how clean we can produce these parts. When I’m working with the parts that are going out glove and face shields are worn. Here’s Beth Poulton who was lending a hand packaging up face shields that were going out to Health Workers. The advice to Health Workers would be that they sanitise the face shields before use, just incase there's any asymptomatic infeciton.
+These methods help knock out the time component. Another concern is how clean we can produce these parts. When I’m working with the parts that are going out glove and face shields are worn. Here’s [Beth Poulton](https://www.lstmed.ac.uk/about/people/beth-poulton) who was lending a hand packaging up face shields that were going out to Health Workers. The advice to Health Workers would be that they sanitise the face shields before use, just incase there's any asymptomatic infeciton.
 
 <p align="center">
   <img src="/images/IMG_3017.jpg" alt="beth-packing "width="30%" height="30%"/>
