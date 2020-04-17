@@ -17,7 +17,9 @@ In the 3D printing world there are 2 main designs for 3D printable face shields.
 
 A makerspace in Liverpool called DoES (Do Epic Stuff) is coordinating requests for PPE and doing some amazing work not only with 3D printing, but also laser CNC manufacturing, for an overview of their work, check them out here https://ppe.doesliverpool.com/ . Does Liverpool are also producing the plastic visor portion of the face shields.
 
-The main challenge with printing the faceshields is the time. They take about 1-hour each for something of reasonable quality. This on the surface isn’t a major problem… “you can make 24 per day!”. Unfortunately, standard printers require you to manually remove the parts after each print and start a new one. Meaning the overnight period is void of productivity. The 3D printing community have engineered some beautiful work around for this. Auto ejecting the part:
+The main challenge with printing the faceshields is the time. They take about 1-hour each for something of reasonable quality. This on the surface isn’t a major problem… “you can make 24 per day!”. Unfortunately, standard printers require you to manually remove the parts after each print and start a new one. Meaning the overnight period is void of productivity. The 3D printing community have engineered some beautiful work around for this. 
+
+## Auto ejecting the part
 
 X has modified the print head of their printer and customised the print instruction to essentially ram a bar into the finished print, ejecting it off the bed and starting the print autonomously! So clever! 
 
@@ -25,18 +27,18 @@ X has modified the print head of their printer and customised the print instruct
   <img src="/images/parteject.gif" alt="ejection-method"/>
 </p>
 
-Clip courtesy of Just-3d-print-it on Instagram
+Clip courtesy of [Just-3d-print-it](https://www.instagram.com/p/B-VBZvVDNCu/) on Instagram
 
-The belt printer
+## The Belt Printer
 Best printers have been around for a while, and I’ve always wanted one, however their increased cost compared to traditional non-belt printers is currently prohibitive. They work on the premise of an infinite Z-axis. Allowing indefinite printing in one dimensions. What this means for this story is that you can print a part - eg face shield - and the printer just advances the belt so the parts is ejected from the belt. Rinse and repeat.
 
 <p align="center">
   <img src="/images/3D Printing With an UNLIMITED Z_ 23.8s - 28.3s (V6SrN2qW1Hw) 2401.gif" alt="belt-method"/>
 </p>
 
-Clip courtesy of 3D Printing Nerd
+Clip courtesy of [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ)
 
-The stack
+## The Stack
 
 I was floored when I saw this method. It’s so painfully simple and effective. If you stack multiple models on top of each other and leave a small air gap between them, you can print more models per build plate and separate them with a decorator’s knife after the print. This is the method I’m using. I’m printing 10 at a time per printer and I can get two prints per day. With 3 printers that means 60 prints.
 
@@ -44,8 +46,7 @@ I was floored when I saw this method. It’s so painfully simple and effective. 
   <img src="/images/Stacking 3D Prints _ Scratching Faces 10m40.7s - 10m53s (MHKBvk8IAc0) 2401.gif" alt="stack-method"/>
 </p>
 
-
-Clip courtesy of Make Anything
+Clip courtesy of [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw)
 
 These methods help knock out the time component. Another concern is how clean we can produce these parts. When I’m working with the parts that are going out glove and face shields are worn. Here’s Beth Poulton who was lending a hand packaging up face shields that were going out to Health Workers. The advice to Health Workers would be that they sanitise the face shields before use, just incase. 
 
