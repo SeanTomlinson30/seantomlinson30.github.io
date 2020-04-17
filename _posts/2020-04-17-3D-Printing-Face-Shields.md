@@ -30,11 +30,20 @@ Clip courtesy of Just-3d-print-it on Instagram
 The belt printer
 Best printers have been around for a while, and I’ve always wanted one, however their increased cost compared to traditional non-belt printers is currently prohibitive. They work on the premise of an infinite Z-axis. Allowing indefinite printing in one dimensions. What this means for this story is that you can print a part - eg face shield - and the printer just advances the belt so the parts is ejected from the belt. Rinse and repeat.
 
+<p align="center">
+  <img src="/images/3D Printing With an UNLIMITED Z_ 23.8s - 28.3s (V6SrN2qW1Hw) 2401.gif" alt="belt-method"/>
+</p>
+
 Clip courtesy of 3D Printing Nerd
 
 The stack
 
 I was floored when I saw this method. It’s so painfully simple and effective. If you stack multiple models on top of each other and leave a small air gap between them, you can print more models per build plate and separate them with a decorator’s knife after the print. This is the method I’m using. I’m printing 10 at a time per printer and I can get two prints per day. With 3 printers that means 60 prints.
+
+<p align="center">
+  <img src="/images/Stacking 3D Prints _ Scratching Faces 10m40.7s - 10m53s (MHKBvk8IAc0) 2401.gif" alt="stack-method"/>
+</p>
+
 
 Clip courtesy of Make Anything
 
