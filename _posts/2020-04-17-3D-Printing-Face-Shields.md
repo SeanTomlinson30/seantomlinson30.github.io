@@ -3,9 +3,7 @@ layout: post
 title: 3D Printing Face Shields
 ---
 
-Encouraged, inspired and motived by Lee Haines I’ve been convinced that people would be interested in what I’m up to during this time.
-
-Where to begin? I’m a final year PhD student at the Liverpool School of Tropical medicine, so I’m meant to be having a stressful year anyway, whilst I write my thesis. However, I think we’re all having a stressful year, at least so far anyway. 
+Encouraged, inspired and motived by Lee Haines I’ve been convinced that people would be interested in what I’m up to during this time. Where to begin? I’m a final year PhD student at the Liverpool School of Tropical medicine, so I’m meant to be having a stressful year anyway, whilst I write my thesis. However, I think we’re all having a stressful year, at least so far anyway. 
 
 For no one is that more true out front line medical staff who are continuing in their quest to provide treatment and care for the sick, whilst facing unprecedented stress and strain on personnel and resources. We have seen many stories about PPE shortages and the detrimental and devastating impact of such shortages.
 
@@ -52,4 +50,4 @@ These methods help knock out the time component. Another concern is how clean we
 
 The response and requests for face shields from care workers through my social media platforms since starting this has been overwhelming. I’m hearing horrendous stories of what staff are expected to do with wrong, inadequate, old, broken or non-existent PPE. My goal at the moment in addition to writing my thesis and finishing my PhD on time is to alleviate the concerns of our brave health works by providing them with functioning PPE. 
 
-If your organisation needs help with PPE, please see ppe.doesliverpool.com
+If your organisation needs help with PPE, please see the [DoES site](ppe.doesliverpool.com)
