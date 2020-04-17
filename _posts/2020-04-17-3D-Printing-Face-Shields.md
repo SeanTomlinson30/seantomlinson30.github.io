@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Press Articles
+title: 3D Printing Face Shields
 ---
 
 Encouraged, inspired and motived by Lee Haines I’ve been convinced that people would be interested in what I’m up to during this time.
