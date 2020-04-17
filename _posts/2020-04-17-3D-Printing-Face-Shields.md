@@ -10,7 +10,7 @@ For no one is that more true out front line medical staff who are continuing in 
 The 3D printing and maker community is a fabulous one that - much to the chagrin of IP and copyright holders - stand in fierce defiance on essential items that are not open source. Our first view of this was a team of [Italian doctors and engineers](https://www.forbes.com/sites/amyfeldman/2020/03/19/talking-with-the-italian-engineers-who-3d-printed-respirator-parts-for-hospitals-with-coronavirus-patients-for-free/#3bfd404378f1) who replicated a ventilator valve in CAD and started producing their own. Indeed, the maker community has rallied to make themselves available to fill the holes in the equipment and consumables space of health staff around the world, where the traditional funders, manufacturers and suppliers are falling short. Even where health workers are receiving PPE, it’s wholly inadequate for the task they have before them. An old school friend of mine is a carer and sees x clients per day and have been given only 1 mask and 1 face shield to last some unknown amount of time. The face shield they have been given is a thick card stock and is reminiscent of the old cardboard crowns from Burger King.
 
 <p align="center">
-  <img src="papershield.jpg" alt="paper-shield"/>
+  <img src="/images/papershield.jpg" alt="paper-shield"/>
 </p>
 
 
