@@ -3,7 +3,7 @@ layout: post
 title: 3D Printing Face Shields
 ---
 
-Encouraged, inspired and motived by Lee Haines I’ve been convinced that people would be interested in what I’m up to during this time. Where to begin? I’m a final year PhD student at the Liverpool School of Tropical medicine, so I’m meant to be having a stressful year anyway, whilst I write my thesis. However, I think we’re all having a stressful year, at least so far anyway. 
+Encouraged, inspired and motived by Lee Haines I’ve been convinced that people would be interested in what I’m up to during this time. Where to begin? I’m a final year PhD student at the Liverpool School of Tropical Medicine, so I’m meant to be having a stressful year anyway, whilst I write my thesis. However, I think we’re all having a stressful year, at least so far anyway. 
 
 ## 3D Printing Preamble
 
