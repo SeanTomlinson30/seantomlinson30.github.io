@@ -4,11 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-**Resistance to dieldrin evolution in African malaria vectors is driven by interspecic and interkaryotypic introgression** 
+**Evolution of the Insecticide Target Rdl in African Anopheles Is Driven by Interspecific and Interkaryotypic Introgression** 
 
-bioRxiv 2019/12
+Mol Biol Evol 2020/05
 
-[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2019.12.17.879775v1)
+[PMID: 32449755](https://www.ncbi.nlm.nih.gov/pubmed/32449755)
+
+[DOI: 10.1093/molbev/msaa128](https://doi.org/10.1093/molbev/msaa128)
+
+[Deprecated bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2019.12.17.879775v1)
 
 ---
 
