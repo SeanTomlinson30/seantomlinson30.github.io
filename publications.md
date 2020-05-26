@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**Evolution of the Insecticide Target Rdl in African Anopheles Is Driven by Interspecific and Interkaryotypic Introgression** 
+**Evolution of the Insecticide Target _Rdl_ in African Anopheles Is Driven by Interspecific and Interkaryotypic Introgression** 
 
 Mol Biol Evol 2020/05
 
